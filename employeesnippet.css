@@ -1,0 +1,40 @@
+.employee {
+    border-style: solid;
+    border-width: thick;
+    border-color: black;
+    box-shadow: 10px 10px 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.title {
+   margin-right: 100px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+img {
+    float: left;
+    width: 125px;
+    height: 125px;
+    margin-right: 10px;
+}
+
+.eName {
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+
+.department {
+    margin-right: 100px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.email {
+    font-weight: 700;
+    font-size: 18px;
+}
+
